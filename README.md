@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter-todo-app.git
+   git clone https://github.com/Didar1313/flutter-todo-app.git
    cd flutter-todo-app
 ### Install dependencies:
 
